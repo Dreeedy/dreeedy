@@ -1,7 +1,7 @@
 ### Привет 👋
 
 ### Ключевые навыки
-<span style="color:blue">[ C# ]</span><span style="color:blue">[ PHP ]</span>
+###### <span style="color: red">[ C# ]</span>
 <span style="color:blue">[ PHP ]</span> 
 
 
